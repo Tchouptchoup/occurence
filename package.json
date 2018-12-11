@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "module en JS qui permet de connaitre le nombre d'occurence de chaque mot dans un texte (les mots de moins de deux lettres seront ignorés)",
   "main": "main.js",
-  "homepage": "",
+  "homepage": "https://github.com/Tchouptchoup/occurence",
   "author": "maitetxu.darguy@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Julien-sans/rainbowsix-siege-api"
+    "url": "https://github.com/Tchouptchoup/occurence"
   },
   "license": "MIT",
   "keywords": [
