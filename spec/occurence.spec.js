@@ -1,5 +1,5 @@
 const assert = require('assert');
-const occurence = require('../helpers/occurence');
+const occurence = require('../src/occurence');
 
 describe('test occurence', () => {
   it('avec "bonjour bonjour"', () => {

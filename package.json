@@ -1,13 +1,13 @@
 {
-  "name": "occurrence",
+  "name": "text-occurrence",
   "version": "1.0.0",
   "description": "module en JS qui permet de connaitre le nombre d'occurence de chaque mot dans un texte (les mots de moins de deux lettres seront ignorés)",
-  "main": "main.js",
+  "main": "src/occurence.js",
   "homepage": "https://github.com/Tchouptchoup/occurence",
   "author": "maitetxu.darguy@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tchouptchoup/occurence"
+    "url": "https://github.com/Tchouptchoup/occurence.git"
   },
   "license": "MIT",
   "keywords": [
@@ -17,9 +17,8 @@
   "scripts": {
     "test": "./node_modules/.bin/jasmine-node spec"
   },
-  "dependencies": {
+  "devDependencies": {
     "assert": "^1.4.1",
-    "growl": "^1.10.5",
     "jasmine-node": "^2.0.1"
   }
 }
