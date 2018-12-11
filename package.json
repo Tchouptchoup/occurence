@@ -1,0 +1,24 @@
+{
+  "name": "occurrence",
+  "version": "1.0.0",
+  "description": "module en JS qui permet de connaitre le nombre d'occurence de chaque mot dans un texte (les mots de moins de deux lettres seront ignorés)",
+  "main": "main.js",
+  "homepage": "",
+  "author": "maitetxu.darguy@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Julien-sans/rainbowsix-siege-api"
+  },
+  "license": "MIT",
+  "keywords": [
+    "occurence",
+    "text"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "jasmine-node": "^1.16.2"
+  }
+}
